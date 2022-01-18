@@ -17,10 +17,10 @@ The course will focus on the two major paradigms in machine learning - supervise
 
 After successfully completing this course, students will be able to:
 
-•	Understand key concepts in machine learning
-•	Use acquired hands-on experiences with implementation of machine learning algorithms
-•	Derive the mathematical formulation of the fundamental machine learning models
-•	Formulate and solve application questions with appropriate machine learning methods
+-	Understand key concepts in machine learning
+-	Use acquired hands-on experiences with implementation of machine learning algorithms
+-	Derive the mathematical formulation of the fundamental machine learning models
+-	Formulate and solve application questions with appropriate machine learning methods
  
 
 # Syllabus
